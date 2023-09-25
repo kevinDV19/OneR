@@ -14,3 +14,5 @@ Aldape Rodríguez Kevin Jair.
 Duarte Vázquez Kevin Alexis.
 
 Venegas Garibay Ali.
+
+ !(images/mi_imagen.png)
