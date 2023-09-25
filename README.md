@@ -15,5 +15,7 @@ Duarte Vázquez Kevin Alexis.
 
 Venegas Garibay Ali.
 
-<img src="Resultado 1.jpg">
+#Resultado:
+<img src="Resultado 1.png">
+<img src="Resultado 0.png">
 
